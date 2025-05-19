@@ -123,7 +123,7 @@
 ---
 
 <!-- SDLC -->
-
+---
 <h2 align="center">Familiar with Agile SDLC model</h2>
 <p align="center">
   <img src="https://www.safexplore.com/images/agile-methodology.gif" width="300" alt="Agile Model"/>
@@ -131,9 +131,9 @@
 
 <h2 align="center">Familiar with V SDLC model</h2>
 <p align="center">
-  <img src="https://www.bdtask.com/blog/assets/plugins/ckfinder/core/connector/php/uploads/images/diagram-of-v-models.webp" width="300" alt="V Model"/>
+  <img src="https://www.professionalqa.com/assets/images/v-model.png" width="300" alt="V Model"/>
 </p>
-
+---
 <!-- Thank You GIF -->
 <h2 align="center">Thank You for Visiting</h2>
 <p align="center">
