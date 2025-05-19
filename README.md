@@ -1,7 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b8/72/7d/b8727d58d38ac6f954b436110fb6ca85.jpg" alt="Your Greatest Resource is Your Time" height="40%" width="100%"/>
-</p>
+
+
 
 <!-- Name and Role -->
 <h1 align="center">Hello, This is Umar Alam | Full Stack Developer & AI Engineer</h1>
