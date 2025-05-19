@@ -85,12 +85,12 @@
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/PANDX-AI-Medicine-Recommendation-System-with-ML">PANDX AI</a></td>
     <td>ML-powered disease diagnosis and medication guide</td>
-    <td></td>
+    <td>Python, Django, Jupyter Notebook, Supervised ML, Flask, GitHub, OOPs, DSA, Agile SDLC</td>
   </tr>
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/spotify_clone">Spotify Clone</a></td>
     <td>Music player UI with Firebase backend</td>
-    <td>Python, Django, Jupyter Notebook, Supervised ML, Flask, GitHub, OOPs, DSA, Agile SDLC  </td>
+    <td>HTML, CSS, Javascript  </td>
   </tr>
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/My-Portfolio">Portfolio Website</a></td>
