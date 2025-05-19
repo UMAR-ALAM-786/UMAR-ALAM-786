@@ -122,8 +122,20 @@
 
 ---
 
+<!-- SDLC -->
+
+<h2 align="center">Familiar with Agile SDLC model</h2>
+<p align="center">
+  <img src="https://www.safexplore.com/images/agile-methodology.gif" width="300" alt="Agile Model"/>
+</p>
+
+<h2 align="center">Familiar with V SDLC model</h2>
+<p align="center">
+  <img src="https://www.bdtask.com/blog/assets/plugins/ckfinder/core/connector/php/uploads/images/diagram-of-v-models.webp" width="300" alt="V Model"/>
+</p>
+
 <!-- Thank You GIF -->
-<h2 align="center">🙏 Thank You for Visiting</h2>
+<h2 align="center">Thank You for Visiting</h2>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW8zMXpwN2lzbXdnaTRrZWFzaTFoYnQwbjZjdDdqbXlwODF0d201OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="300" alt="Thank You"/>
 </p>
