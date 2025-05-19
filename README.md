@@ -4,7 +4,7 @@
 </p>
 
 <!-- Name and Title -->
-<h1 align="center">💻 Umar Alam | Full Stack Developer & AI Enthusiast</h1>
+<h1 align="center">Hello, This is Umar Alam | Full Stack Developer & AI Enthusiast</h1>
 
 <!-- Friendly AI Robo GIF -->
 <p align="center">
@@ -95,10 +95,10 @@
 <!-- Coding Profiles -->
 <h2 align="center">💻 Coding Profiles</h2>
 <p align="center">
-  <a href="[YOUR_LEETCODE_PROFILE]">
+  <a href="https://leetcode.com/u/Umar_Alam/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
-  <a href="[YOUR_HACKERRANK_PROFILE]">
+  <a href="https://www.geeksforgeeks.org/user/alamumar/">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
@@ -115,10 +115,10 @@
   <a href="mailto:alamumar91@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/umaralam">
+  <a href="https://www.linkedin.com/in/umar-alam-khan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/umaralam">
+  <a href="https://github.com/UMAR-ALAM-786/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="[YOUR_INSTAGRAM_PROFILE]">
