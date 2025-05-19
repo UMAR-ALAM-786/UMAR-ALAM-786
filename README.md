@@ -1,15 +1,30 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/umaralam/umaralam/blob/main/assets/banner.gif?raw=true" alt="Umar Alam Banner"/>
+  <img src="https://i.pinimg.com/originals/b8/72/7d/b8727d58d38ac6f954b436110fb6ca85.jpg" alt="Your Greatest Resource is Your Time" width="100%"/>
 </p>
 
-<!-- Name and Title -->
-<h1 align="center">Hello, This is Umar Alam | Full Stack Developer & AI Enthusiast</h1>
+<!-- Name and Role -->
+<h1 align="center">Hello, This is Umar Alam | Full Stack Developer & AI Engineer</h1>
 
-<!-- Friendly AI Robo GIF -->
+<!-- AI Robo Hi GIF -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s5MXNyYmtnOGlidTJqc3Bsc2twcW5jemM2d2J1b2h4ZzMzNjRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="220" alt="AI Robot says Hi"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s5MXNyYmtnOGlidTJqc3Bsc2twcW5jemM2d2J1b2h4ZzMzNjRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="200"/>
 </p>
+
+<!-- Tech Stack Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 
 <!-- Badges -->
 <p align="center">
