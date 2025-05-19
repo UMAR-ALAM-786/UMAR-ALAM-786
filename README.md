@@ -29,17 +29,70 @@
 </p>
 
 <!-- Coding Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+
 
 <!-- About Me -->
-<h2 align="center">🌟 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-  B.Tech in Computer Science (8.5 CGPA) | AI Engineer | Published Researcher<br>
-  AIR 1113 in CUET UG 2022 | Winner of National Teachers' Day E-Quiz 2021<br>
-  Passionate about building intelligent systems that solve real-world problems
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
+
+<p align="center">
+  I’m <strong>Umar Alam</strong> — a passionate <strong>Full Stack Developer</strong> and <strong>AI Engineer</strong> with a solid academic foundation and real-world impact.
+  Currently pursuing my B.Tech in Computer Science (CGPA: 8.5) at <strong>Khwaja Moinuddin Chishti Language University</strong> and a diploma holder in Mechanical Engineering.
+</p>
+
+<p align="center">
+  With hands-on experience in <strong>AI-driven systems</strong>, <strong>Web Development</strong>, and <strong>ML-based diagnostics</strong>, I thrive on turning innovative ideas into practical solutions.
+  I’ve developed applications that are not only live but also published in <strong>Google Scholar</strong> and <strong>Scopus-indexed journals</strong>.
+</p>
+
+<p align="center">
+  🚀 AIR 1113 in CUET UG | 🧠 Researcher | 🏆 National Quiz Winner | 💬 Lifelong learner
+</p>
+
+<h2 align="center">⚙️ Skills & Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+
+<h2 align="center">🏅 Achievements</h2>
+
+<ul>
+  <li>📚 <strong>2 Research Papers Published</strong>
+    <ul>
+      <li>Alam-e-Study – Google Scholar-indexed (IJSRNSC)</li>
+      <li>Crop360 – Scopus-indexed (Elsevier)</li>
+    </ul>
+  </li>
+  <li>🎯 Secured <strong>AIR 1113</strong> in CUET UG 2022</li>
+  <li>📊 State Rank 30125 in JEECUP 2019</li>
+  <li>🏅 Winner – National Teachers' Day E-Quiz 2021 by Govt. of India</li>
+</ul>
+
 
 <!-- Research Publications -->
 <h2 align="center">📚 Research Publications</h2>
@@ -52,8 +105,6 @@
 </p>
 
 <!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
 <table align="center">
   <tr>
     <th>Project</th>
@@ -61,31 +112,32 @@
     <th>Tech Stack</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/UMAR-ALAM-786/spotify_clone">Spotify Clone</a></td>
-    <td>A responsive music streaming web app inspired by Spotify</td>
-    <td>React, Tailwind, Firebase</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/UMAR-ALAM-786/Alam-e-Study">Alam-e-Study</a></td>
-    <td>E-learning platform with 20+ integrated tools</td>
-    <td>MERN, Flask, React</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/Crop360">Crop360</a></td>
-    <td>AI agriculture platform with 97% disease detection accuracy</td>
+    <td>AI platform for plant diagnosis, crop recommendation, yield prediction</td>
     <td>Python, CNN, Streamlit</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/UMAR-ALAM-786/Alam-e-Study">Alam-e-Study</a></td>
+    <td>E-learning platform with 20+ integrated student tools</td>
+    <td>MERN, Flask, APIs</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/PANDX-AI-Medicine-Recommendation-System-with-ML">PANDX AI</a></td>
-    <td>Medical diagnostic system with 95% accuracy</td>
-    <td>Django, ML, Flask</td>
+    <td>ML-powered medical diagnosis & recommendation tool</td>
+    <td>Django, Python, ML, Flask</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UMAR-ALAM-786/spotify_clone">Spotify Clone</a></td>
+    <td>Responsive music streaming platform inspired by Spotify</td>
+    <td>React, Tailwind, Firebase</td>
   </tr>
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/My-Portfolio">Portfolio Website</a></td>
-    <td>Personal portfolio to showcase projects and skills</td>
-    <td>React, HTML/CSS</td>
+    <td>Personal portfolio showcasing skills and work</td>
+    <td>React, CSS, Netlify</td>
   </tr>
 </table>
+
 
 <!-- Cool Developer Animation -->
 <p align="center">
