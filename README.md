@@ -75,27 +75,27 @@
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/Crop360">Crop360</a></td>
     <td>AI-driven plant health + crop yield prediction system</td>
-    <td>Python, Streamlit, CNN</td>
+    <td>Python, Streamlit, Jupyter Notebook, DSA, CNNs, Agile SDLC (Modular Design) </td>
   </tr>
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/Alam-e-Study">Alam-e-Study</a></td>
     <td>All-in-one study platform with 20+ smart tools</td>
-    <td>MERN, Flask, React</td>
+    <td>MongoDB, Python, Flask, HTML, CSS, JavaScript, ReactJS, APIs, OOPs, SDLC (V-Model)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/PANDX-AI-Medicine-Recommendation-System-with-ML">PANDX AI</a></td>
     <td>ML-powered disease diagnosis and medication guide</td>
-    <td>Django, ML, Flask</td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/spotify_clone">Spotify Clone</a></td>
     <td>Music player UI with Firebase backend</td>
-    <td>React, Tailwind, Firebase</td>
+    <td>Python, Django, Jupyter Notebook, Supervised ML, Flask, GitHub, OOPs, DSA, Agile SDLC  </td>
   </tr>
   <tr>
     <td><a href="https://github.com/UMAR-ALAM-786/My-Portfolio">Portfolio Website</a></td>
     <td>Developer portfolio hosted on Netlify</td>
-    <td>React, CSS</td>
+    <td>React, HTML, Javascript</td>
   </tr>
 </table>
 
@@ -123,7 +123,7 @@
 ---
 
 <!-- SDLC -->
----
+
 <h2 align="center">Familiar with Agile SDLC model</h2>
 <p align="center">
   <img src="https://www.safexplore.com/images/agile-methodology.gif" width="300" alt="Agile Model"/>
@@ -133,6 +133,7 @@
 <p align="center">
   <img src="https://www.professionalqa.com/assets/images/v-model.png" width="300" alt="V Model"/>
 </p>
+
 ---
 <!-- Thank You GIF -->
 <h2 align="center">Thank You for Visiting</h2>
