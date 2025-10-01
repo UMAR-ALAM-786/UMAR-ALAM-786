@@ -16,64 +16,40 @@
 </p>
 
 ---
-
-<style>
-  .icon-row {
-    display: flex;
-    flex-wrap: wrap; /* allows icons to wrap to next line on smaller screens */
-    gap: 10px;       /* space between icons */
-    align-items: center;
-  }
-
-  .icon-row img {
-    height: 40px;
-  }
-
-  td b {
-    vertical-align: top;
-  }
-</style>
-
-<table>
+### 🛠 Languages, Frameworks, and Tools
+<table style="width:100%; border-collapse: collapse;">
   <tr>
-    <td><b>Backend:</b></td>
-    <td class="icon-row">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <td style="width:20%; vertical-align:top;"><b>Backend:</b></td>
+    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+      <img src="https://skillicons.dev/icons?i=c,python,java,nodejs" height="40"/>
     </td>
   </tr>
   <tr>
-    <td><b>Frontend:</b></td>
-    <td class="icon-row">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+    <td style="width:20%; vertical-align:top;"><b>Frontend:</b></td>
+    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+      <img src="https://skillicons.dev/icons?i=javascript,react,tailwindcss" height="40"/>
     </td>
   </tr>
   <tr>
-    <td><b>DevOps:</b></td>
-    <td class="icon-row">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+    <td style="width:20%; vertical-align:top;"><b>DevOps:</b></td>
+    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40"/>
     </td>
   </tr>
   <tr>
-    <td><b>Database:</b></td>
-    <td class="icon-row">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <td style="width:20%; vertical-align:top;"><b>Database:</b></td>
+    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
     </td>
   </tr>
   <tr>
-    <td><b>Version Control:</b></td>
-    <td class="icon-row">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <td style="width:20%; vertical-align:top;"><b>Version Control:</b></td>
+    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+      <img src="https://skillicons.dev/icons?i=github,git" height="40"/>
     </td>
   </tr>
 </table>
+
 
 
 
