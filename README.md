@@ -20,37 +20,46 @@
 <table style="width:100%; border-collapse: collapse;">
   <tr>
     <td style="width:20%; vertical-align:top;"><b>Backend:</b></td>
-    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+    <td style="width:80%;">
       <img src="https://skillicons.dev/icons?i=c,python,java,nodejs" height="40"/>
     </td>
   </tr>
+
   <tr>
     <td style="width:20%; vertical-align:top;"><b>Frontend:</b></td>
-    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+    <td style="width:80%;">
       <img src="https://skillicons.dev/icons?i=javascript,react,tailwindcss" height="40"/>
     </td>
   </tr>
+
   <tr>
     <td style="width:20%; vertical-align:top;"><b>DevOps:</b></td>
-    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+    <td style="width:80%;">
       <img src="https://skillicons.dev/icons?i=docker,kubernetes" height="40"/>
     </td>
   </tr>
+
   <tr>
     <td style="width:20%; vertical-align:top;"><b>Database:</b></td>
-    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+    <td style="width:80%;">
       <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
     </td>
   </tr>
+
   <tr>
     <td style="width:20%; vertical-align:top;"><b>Version Control:</b></td>
-    <td style="width:80%; display:flex; flex-direction:column; gap:5px; align-items:flex-start;">
+    <td style="width:80%;">
       <img src="https://skillicons.dev/icons?i=github,git" height="40"/>
     </td>
   </tr>
+
+  <tr>
+    <td style="width:20%; vertical-align:top;"><b>AI / ML (Agentic AI · LLM · RAG · MLOps):</b></td>
+    <td style="width:80%;">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,postgres" height="40"/>
+    </td>
+  </tr>
 </table>
-
-
 
 
 
@@ -58,7 +67,7 @@
 <h2 align="center">🎓 Education</h2>
 
 <ul>
-  <li><strong>B.Tech in Computer Science</strong> – Khwaja Moinuddin Chishti Language University, Lucknow (CGPA: 8.5)</li>
+  <li><strong>B.Tech in Computer Science</strong> – Khwaja Moinuddin Chishti Language University, Lucknow (CGPA: 8.02)</li>
   <li><strong>Diploma in Mechanical Engineering</strong> – Govt Polytechnic Sultanpur (CGPA: 7.2)</li>
 </ul>
 
