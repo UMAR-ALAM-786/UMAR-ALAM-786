@@ -2,11 +2,7 @@
 <div align="center">
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Umar%20Alam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
-<!-- AI Robo GIF -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2s5MXNyYmtnOGlidTJqc3Bsc2twcW5jemM2d2J1b2h4ZzMzNjRyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="220"/>
-<br/>
-<!-- Name and Role -->
-<h1 align="center">Hello, This is Umar Alam | Full Stack Developer & AI Engineer</h1>
+
 
 <!-- AI Robo GIF -->
 <p align="center">
@@ -174,3 +170,12 @@
 </p>
 
 <h3 align="center">⭐ From <a href="https://github.com/UMAR-ALAM-786">Umar Alam</a> with 💙</h3>
+
+
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW8zMXpwN2lzbXdnaTRrZWFzaTFoYnQwbjZjdDdqbXlwODF0d201OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="200" alt="Thank You"/>
+Thanks for visiting — if you find my work helpful, consider starring a repo.
+"First, solve the problem. Then, write the code." — John Johnson
+From Umar Alam with 💙
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+</div>
