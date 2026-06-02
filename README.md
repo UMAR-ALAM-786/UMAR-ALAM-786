@@ -62,23 +62,10 @@
   </tr>
 </table>
 
-Research Publications
-#TitleJournalStatus1Empowering Students: Building an Integrated App for Productivity & CreativityIJSRNSC · Google Scholar IndexedPublished (Oct 2024)2AI-driven Crop Disease Detection, Yield Prediction & Recommendations using ML & CNNElsevier · Scopus IndexedUnder Peer Review
+#Research Publications
+TitleJournalStatus1Empowering Students: Building an Integrated App for Productivity & CreativityIJSRNSC · Google Scholar IndexedPublished (Oct 2024)2AI-driven Crop Disease Detection, Yield Prediction & Recommendations using ML & CNNElsevier · Scopus IndexedUnder Peer Review
 
-Achievements
-<div align="center">
-AchievementDetailsDSA Problem Solving550+ problems on LeetCode & GeeksforGeeksHarvard CS50Completed — Batch 2024Generative AI WorkshopNxtWave — Build Your Own AI ModelAIR 1113CUET UG 2022 (National Level)State Rank 30125JEECUP 2019E-Quiz WinnerNational Teachers' Day 2021 — Govt. of India
-</div>
 
-GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UMAR-ALAM-786&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UMAR-ALAM-786&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="48%"/>
-<br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UMAR-ALAM-786&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="40%"/>
-<br/>
-Show Image
-</div>
 
 
 
