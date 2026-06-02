@@ -172,10 +172,5 @@
 <h3 align="center">⭐ From <a href="https://github.com/UMAR-ALAM-786">Umar Alam</a> with 💙</h3>
 
 
-<div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW8zMXpwN2lzbXdnaTRrZWFzaTFoYnQwbjZjdDdqbXlwODF0d201OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="200" alt="Thank You"/>
-Thanks for visiting — if you find my work helpful, consider starring a repo.
-"First, solve the problem. Then, write the code." — John Johnson
-From Umar Alam with 💙
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
